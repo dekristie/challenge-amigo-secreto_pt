@@ -43,32 +43,6 @@ Personalização do Sorteio: Permitir que os usuários personalizem mensagens ou
 
 Validação Avançada: Melhorar a validação dos nomes para evitar duplicatas ou campos vazios.
 
-## **🤝 Como Contribuir**
-
-Quer ajudar a melhorar este projeto? Siga os passos abaixo:
-
-Faça um fork do repositório.
-
-Crie uma branch para suas alterações:
-
-bash
-Copiar
-Editar
-git checkout -b feature/minha-nova-funcionalidade
-Realize as modificações desejadas e faça um commit:
-
-sql
-Copiar
-Editar
-git commit -m "Adicionando nova funcionalidade"
-Envie as alterações para seu repositório:
-
-bash
-Copiar
-Editar
-git push origin feature/minha-nova-funcionalidade
-Abra um Pull Request no repositório original e descreva suas mudanças.
-
 ## **📄 Licença**
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes. Se utilizar ou modificar o código, mencione a origem do projeto.
