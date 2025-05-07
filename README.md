@@ -1,6 +1,6 @@
 # **Desafio Amigo Secreto - Sorteio Online**
 
-[Visite the Challenge Amigo Secreto](https://dekristie.github.io/challenge-amigo-secreto_pt/)
+[Visite Challenge Amigo Secreto](https://dekristie.github.io/challenge-amigo-secreto_pt/)
 
 ![Print do Projeto](assets/Amigo%20Secreto.png)
 
