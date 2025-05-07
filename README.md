@@ -31,7 +31,8 @@ Para começar a utilizar o projeto, clone o repositório para sua máquina local
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone [[https://github.com/seu-usuario/amigo-secreto.git]
+
 Abrir o Projeto:
 
 Abra a pasta do projeto no seu editor de código favorito.
