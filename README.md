@@ -1,7 +1,7 @@
 # **Desafio Amigo Secreto - Sorteio Online**
-![Print do Projeto](assets/Amigo%20Secreto.png)
-
 [Visite o Número Secreto](https://dekristie.github.io/challenge-amigo-secreto_pt/)
+
+![Print do Projeto](assets/Amigo%20Secreto.png)
 
 Este projeto foi desenvolvido para simplificar a realização do tradicional "Amigo Secreto" de forma online. Com uma interface intuitiva, os participantes podem adicionar nomes, realizar o sorteio automaticamente e visualizar os resultados instantaneamente. Tudo isso sem precisar recorrer a métodos tradicionais como papel e caneta. O sistema utiliza HTML, CSS e JavaScript para proporcionar uma experiência prática e interativa.
 
